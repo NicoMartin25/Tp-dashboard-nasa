@@ -3,6 +3,7 @@
 **Visualización interactiva de datos reales sobre asteroides cercanos a la Tierra.**  
 Este proyecto utiliza la **API pública de la NASA (Near Earth Object Web Service - NEO)** para obtener información en tiempo real sobre asteroides que pasan cerca de nuestro planeta y los presenta de forma visual, accesible y educativa mediante **Streamlit** y **Plotly**.
 
+# ☄️ Dashboard de Asteroides NASA Ejecutable : https://dashboardast.streamlit.app
 ---
 
 ## 🌌 Motivación
@@ -92,18 +93,10 @@ Explica la idea del proyecto, su propósito educativo y los detalles técnicos d
 
 ---
 
-## 🪐 Ejemplo Visual
-
-![Ejemplo de Dashboard](https://raw.githubusercontent.com/tu-usuario/Dashboard-Asteroides/main/demo/dashboard_preview.png)
-
-*(Podés agregar una captura de pantalla del dashboard en ejecución)*
-
----
-
 ## 🧑‍💻 Autor
 
 **Nahuel Nicolás Martín**  
-📧 Contacto: [tu-email@example.com]  
+📧 Contacto: [nicoomartin25@gmail.com]  
 📍 Argentina  
 🎓 Estudiante de Ciencia de Datos - Instituto Tecnológico Beltrán
 
